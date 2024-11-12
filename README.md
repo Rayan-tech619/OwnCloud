@@ -2,6 +2,6 @@
 Entrega de Uf2 gestor d'arxius web
 <!-- [click on this link](#my-multi-word-header) -->
 
-* [ConfiguracióOwncloud](docs/ConfiguracióOwncloud.md)
-* [Instalació OwnCloud](docs/InstalacióOwncloudmd)
+- [docs/ConfiguracióOwncloud.md](./docs/ConfiguracióOwncloud.md)
+- [docs/InstalacióOwnCloud.md](./docs/InstalacióOwncloud.md)
 
