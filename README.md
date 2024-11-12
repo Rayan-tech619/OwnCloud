@@ -5,3 +5,5 @@ Entrega de Uf2 gestor d'arxius web
 - [ConfiguracióOwncloud.md](./docs/ConfiguracióOwncloud.md)
 - [InstalacióOwnCloud.md](./docs/InstalacióOwncloud.md)
 
+- [Configuración Owncloud](./ConfiguraciónOwncloud.md)
+
