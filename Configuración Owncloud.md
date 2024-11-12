@@ -1,6 +1,6 @@
 # Manual de configuració d'OwnCloud
 
-El primer és anar al OwnCloud iniciar sesión i un cop dintre tens que anar a usuaris pulsant el teu perfil adalt a la dreta, un cop fet tenim que ompli la aquesta fila amb un nombre de usuari i email.
+### El primer és anar al OwnCloud iniciar sesió i un cop dintre tens que anar a usuaris pulsant el teu perfil adalt a la dreta, un cop fet tenim que ompli la aquesta fila amb un nombre de usuari i email.
 
 ![image](https://github.com/user-attachments/assets/0bbed48f-2f15-4608-808b-1453315c1914)
 
@@ -14,6 +14,12 @@ El primer és anar al OwnCloud iniciar sesión i un cop dintre tens que anar a u
 
 ![image](https://github.com/user-attachments/assets/219b772f-a3c5-480b-be30-d5a897a9cfa7) 
 
-### Seguidament, si voleu cambiar el nom o esborrar la foto teniu que seleccionar els tres puntets. 
+### En assiganció de rols i permisos lo que heu de fer és seleccionar "add groups" i alla podeu afegir els rols que vulgueu.
+![image](https://github.com/user-attachments/assets/a1de670b-8885-43c0-b965-8b1d67c1f218)
+
+### Per asignar els rols teniu que fer click en "groups" o "admin group for"
+![image](https://github.com/user-attachments/assets/a2291002-e98b-44f1-b9f9-e7d765b7653c)
+
+### Finalment, si voleu cambiar el nom o esborrar la foto teniu que seleccionar els tres puntets. 
 
 ![image](https://github.com/user-attachments/assets/6980814d-b567-4fc2-81e8-3aeff4270b04)
