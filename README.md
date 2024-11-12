@@ -7,3 +7,4 @@ Entrega de Uf2 gestor d'arxius web
 
 - [Configuración Owncloud](./ConfiguraciónOwncloud.md)
 
+[Configuración Owncloud](https://github.com/Rayan-tech619/OwnCloud/blob/main/ConfiguraciónOwncloud.md)
