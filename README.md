@@ -14,3 +14,5 @@ https://github.com/Rayan-tech619/OwnCloud/blob/main/ConfiguraciónOwncloud.md
 [Configuración Owncloud](https://github.com/Rayan-tech619/OwnCloud)
 
 [Configuración Owncloud](docs/ConfiguraciónOwncloud.md)
+
+[Configuració Owncloud](ConfiguracióOwncloud.md)
